@@ -6,18 +6,17 @@ I did the mandatory rendering of our Earth and our Moon as practice on Three.js 
 
 ![Screen Shot 2022-11-05 at 1 19 15 PM](https://user-images.githubusercontent.com/90220317/200132926-93063a33-63dd-43d0-8a3f-a173623f1199.png)
 
-https://marlonbarrios.github.io/moonearth/
+[LIVE APP](https://marlonbarrios.github.io/moonearth/ 'CODE REPOSITORY')
 
-https://github.com/marlonbarrios/moonearth
+[CODE REPO](https://github.com/marlonbarrios/moonearth 'Code Repo')
 
 ## More than a cube...
 
 ![Screen Shot 2022-11-05 at 1 20 33 PM](https://user-images.githubusercontent.com/90220317/200132965-c0e127fb-6fb8-4df8-b147-1a613c9743bf.png)
 
-https://marlonbarrios.github.io/blocks_loop01/
+[LIVE APP](https://marlonbarrios.github.io/blocks_loop01/ 'CODE REPOSITORY')
 
-https://github.com/marlonbarrios/blocks_loop01
-
+[CODE REPO](https://github.com/marlonbarrios/blocks_loop01 'Code Repo')
 
 ## Floating up cubes..
 
@@ -26,7 +25,6 @@ https://github.com/marlonbarrios/blocks_loop01
 [LIVE APP](https://marlonbarrios.github.io/cubesgoingup/ 'CODE REPOSITORY')
 
 [CODE REPO](https://github.com/marlonbarrios/cubesgoingup 'Code Repo')
-
 
 ## Unstable Terrain
 
@@ -38,7 +36,6 @@ I added some sliders and buttons to this perlin noise 3D terrain.
 
 [CODE REPO](https://github.com/marlonbarrios/perlinnoiseterrain 'Code Repo')
 
-
 ## Structural Waves
 
 ![Screen Shot 2022-11-05 at 1 26 38 PM](https://user-images.githubusercontent.com/90220317/200133184-c65c67f3-e31f-4a37-9dfc-071ff07e34d0.png)
@@ -46,7 +43,6 @@ I added some sliders and buttons to this perlin noise 3D terrain.
 [LIVE APP](https://marlonbarrios.github.io/sinewavestructure/ 'CODE REPOSITORY')
 
 [CODE REPO](https://github.com/marlonbarrios/sinewavestructure 'Code Repo')
-
 
 ## Three.js practice:
 
